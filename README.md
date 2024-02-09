@@ -6,3 +6,4 @@
 ## [Algorithm Design](./alg)
 ## [Formal Languages and Automata Theory](./fla.pdf)
 ## [Programming Languages](./pl.pdf)
+## [Compiler Design](./compiler)
