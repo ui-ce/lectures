@@ -7,3 +7,4 @@
 - [Greedy](./c05-greedy.pdf)
 - [Combinatorial Search](./c06-combinatorial-search.pdf)
 - [Graph](./c07-graph.pdf)
+- [NP-Completeness](./c08-np-completeness.pdf)
