@@ -5,3 +5,5 @@
 - [Trees](./c03-trees.pdf)
 - [Hash Tables](./c04-hash-tables.pdf)
 - [Sorting](./c05-sorting.pdf)
+- [Advanced Structures](./c06-advanced-ds.pdf)
+- [Graphs](./c07-graph.pdf)
