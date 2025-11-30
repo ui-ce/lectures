@@ -8,3 +8,4 @@
 ## [Formal Languages and Automata Theory](./fla.pdf)
 ## [Programming Languages](./pl)
 ## [Compiler Design](./compiler)
+## [Advanced Algorithms](./aalg.pdf)
