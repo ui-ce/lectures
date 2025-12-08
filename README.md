@@ -1,7 +1,7 @@
 ## [Fundamentals of Programming <br /> برنامه‌نویسی مقدماتی](./fp)
 ## [Advanced Programming <br /> برنامه‌نویسی پیشرفته](./ap.pdf)
 ## [Data Structures <br /> ساختمان داده](./ds)
-## [Algorithm Design \n طراحی الگوریتم](./alg)
+## [Algorithm Design <br /> طراحی الگوریتم](./alg)
 ## [Formal Languages and Automata Theory <br /> نظریهٔ زبان‌ها و ماشین‌ها](./fla.pdf)
 ## [Programming Languages <br /> زبان‌های برنامه‌نویسی](./pl)
 ## [Compiler Design <br /> طراحی کامپایلر](./compiler)
