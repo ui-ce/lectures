@@ -1,11 +1,8 @@
-# Lectures
-
-
-## [Fundamentals of Programming](./fp)
-## [Advanced Programming](./ap.pdf)
-## [Data Structures](./ds)
-## [Algorithm Design](./alg)
-## [Formal Languages and Automata Theory](./fla.pdf)
-## [Programming Languages](./pl)
-## [Compiler Design](./compiler)
-## [Advanced Algorithms](./aalg.pdf)
+## [برنامه‌نویسی مقدماتی Fundamentals of Programming](./fp)
+## [برنامه‌نویسی پیشرفته Advanced Programming](./ap.pdf)
+## [ساختمان داده Data Structures](./ds)
+## [طراحی الگوریتم Algorithm Design](./alg)
+## [نظریهٔ زبان‌ها و ماشین‌ها Formal Languages and Automata Theory](./fla.pdf)
+## [زبان‌های برنامه‌نویسی Programming Languages](./pl)
+## [طراحی کامپایلر Compiler Design](./compiler)
+## [الگوریتم پیشرفته Advanced Algorithms](./aalg.pdf)
